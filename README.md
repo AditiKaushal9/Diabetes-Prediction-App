@@ -4,7 +4,7 @@ An app that predicts diabetes by using machine learning algorithm. It is built b
 In this project, our objective is to predict whether the patient has diabetes or not based on various features like *Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, Diabetes Pedigree Function, Age*. We will perform all the steps from *Data gathering to Model deployment.* During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask which is a python micro framework.
 
 
-> Deployment - https://medium.com/@adityamankar09/building-a-diabetes-predictor-4702b99bc7e4
+> Deployment - https://diabetes-prediction-ap.herokuapp.com/
 
 # **Screenshot**
 
